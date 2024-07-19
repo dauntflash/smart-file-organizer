@@ -66,28 +66,28 @@ To create a standalone executable (Windows):
 ### Example Usage
 
 ```bash
-python file_organizer.py
+python file_organizer.py```
 
 
 
-# Log File
+## Log File
 The script generates a log file (file_organiser.log) in the same directory as the script, which records:
 
 1. Directory creation events.
 2. Files moved and their destinations.
 3. Any errors encountered during file movements.
 
-# File Categories
+## File Categories
 The following file categories and extensions are supported:
-
+```
 1. Images: .jpeg, .jpg, .png, .gif, .bmp, .tiff, .svg, .webp, .jfif, .ico, .heif
 2. Videos: .avi, .mp4, .mov, .mkv, .webm, .flv, .wmv, .mpg, .mpeg, .3gp, .ts
 3. Audios: .mp3, .ogg, .wav, .amr, .flac, .aac, .m4a, .wma, .opus
 4. Documents: .doc, .docx, .txt, .pdf, .xlsx, .ppt, .pptx, .odt, .ods, .odp, .docm, .dot, .dotx, .dotm, .epub, .mobi, .azw, .xps, .tex, .xml, .rtf, .html, .htm, .csv
 5. Compressed: .zip, .rar, .7z, .iso, .tar, .gz, .bz2, .xz, .z, .dmg
-6. Programs: .exe, .msi, .app, .bat, .sh, .jar
+6. Programs: .exe, .msi, .app, .bat, .sh, .jar```
 
-# Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
 
