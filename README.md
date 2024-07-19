@@ -37,6 +37,10 @@ File Organizer is a Python-based utility designed to help you organize files in 
 
 ## Usage
 
+1. Download the binary file from the [Releases page](https://github.com/dauntflash/smart-file-organizer/releases).
+2. Run the executable file to start the application.
+3. Follow the on-screen instructions to use the File Organizer Tool.
+
 ### Running the Script
 
 1. Navigate to the directory where the script is located.
