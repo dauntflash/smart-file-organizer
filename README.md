@@ -30,11 +30,6 @@ File Organizer is a Python-based utility designed to help you organize files in 
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     ```
 
-3. Install the required packages (if any):
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Download the binary file from the [Releases page](https://github.com/dauntflash/smart-file-organizer/releases).
